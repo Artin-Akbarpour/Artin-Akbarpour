@@ -42,7 +42,6 @@ Currently focused on improving my skills through real-world backend projects and
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### 📚 Libraries & Frameworks
-### 📚 Libraries & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white)
 
