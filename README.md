@@ -78,16 +78,19 @@ Currently focused on improving my skills through real-world backend projects and
 ---
 
 ## 🌐 Connect With Me
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akbarpourartin4@gmail.com)
-<p> 
 
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/artin_akbarpour1380?igsh=MWwwdDQwenVmNXRzNQ==)
+
+[![Email](https://img.shields.io/badge/Email-akbarpourartin4@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:akbarpourartin4@gmail.com)
+
+<p>
+  <a href="https://www.instagram.com/artin_akbarpour1380?igsh=MWwwdDQwenVmNXRzNQ==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
   <a href="https://github.com/Artin-Akbarpour">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/artin_akbarpour1380?igsh=MWwwdDQwenVmNXRzNQ==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
-  </a> 
   <a href="https://t.me/Farmer13_m">
-  <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
   </a>
 </p>
