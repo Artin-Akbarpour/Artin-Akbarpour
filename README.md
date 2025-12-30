@@ -36,24 +36,34 @@ Currently focused on improving my skills through real-world backend projects and
 
 ---
 
-## 🛠 Tech Stack
-### 💻 Programming Language
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## 💻 My Tech Stack
 
-### 📚 Libraries & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white)
+### ▾ Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+</p>
 
+<p align="center">
+Designing sleek, responsive user interfaces with HTML, CSS, Bootstrap, JavaScript.
+</p>
 
+---
 
-### 🧰 Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+### ▾ Backend Development & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,mongodb,mysql" />
+</p>
 
+<p align="center">
+Building robust server-side solutions with python, django, integrated with MongoDB and MySQL.
+</p>
+
+---
+
+### ▾ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=,git,github,vscode,pycharm" />
+</p>
 
 ---
 
